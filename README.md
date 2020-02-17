@@ -1,2 +1,2 @@
 # PHP
-PHP basics
+PHP Basics
